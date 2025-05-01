@@ -11,8 +11,5 @@ Idea:
 
 ## Screenshots
 
-![Screenshot 1](./res/ss1.png)
-![Screenshot 2](./res/ss2.png)
-![Screenshot 3](./res/ss3.png)
-![Screenshot 4](./res/ss4.png)
+<img src="./res/ss1.png" alt="Screenshot 1" width="200"/> <img src="./res/ss2.png" alt="Screenshot 2" width="200"/> <img src="./res/ss3.png" alt="Screenshot 3" width="200"/> <img src="./res/ss4.png" alt="Screenshot 4" width="200"/>
 
